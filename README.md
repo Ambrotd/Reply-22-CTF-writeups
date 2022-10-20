@@ -1,5 +1,5 @@
 # Reply-22-CTF-writeups
-Web challenges writeups for the reply 22 ctf
+Web challenges writeups from reply 22 ctf
 
 
 ## Web 300 
