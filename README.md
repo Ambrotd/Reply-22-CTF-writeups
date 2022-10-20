@@ -6,8 +6,7 @@ Web challenges writeups for the reply 22 ctf
 - [write up](web300/web-300.md)
 
 ## Web 400
-I will upload as soon as I have some free time to finish the writeup.
-
+- [write up](web400/web400.md)
 ## Web 500
 
 - [write up](web500/web500.md)
